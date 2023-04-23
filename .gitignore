@@ -1,3 +1,7 @@
 node_modules
 *.css.map
 *.js.map
+scss/.DS_Store
+libs/.DS_Store
+demo/.DS_Store
+.DS_Store
